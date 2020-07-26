@@ -1,5 +1,5 @@
-<h3 align="center">👋 Hi there! I'm Avnish.</h3>
-<h4 align="center">🔭 I’m currently working on Covidonus(A Uno-Platform base Covid tracker)</h3>
+<h3 align="center">👋 Hi there! I'm Avnish 👨‍💻.</h3>
+<h4 align="center">🔭 I’m currently working on Covidonus(A Uno-Platform base Covid tracker 📱💻🌎)</h3>
 <h2 align="center">📫 How to reach me</h2>
 <p align="center">
 <a href="http://avnishkumar.co.in">
@@ -19,7 +19,7 @@
 
 
 <!--START_SECTION:posts-->
-* [Windows Template Studio for UWP development](http://avnishkumar.co.in/blog/view/windows-template-studio-for-uwp)
+* [Windows Template Studio for UWP](http://avnishkumar.co.in/blog/view/windows-template-studio-for-uwp)
 * [Static Constructor in C# ](http://avnishkumar.co.in/blog/view/static-constructor-in-csharpcnet)
 * [Build ASP.NET Core API Using Existing Database](https://www.c-sharpcorner.com/article/build-asp-net-core-api-using-existing-database2/)
 * [Add NSwag Documentation to ASP.NET Core Web API](https://www.c-sharpcorner.com/article/add-nswag-documentation-to-asp-net-core-web-api/)
