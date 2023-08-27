@@ -1,26 +1,14 @@
 <h1 align="center">Hi 👋, I'm Avnish Kumar</h1>
 <h3 align="center">A passionate UWP Developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/avikeid2007" target="blank"><img src="https://img.shields.io/twitter/follow/avikeid2007?logo=twitter&style=for-the-badge" alt="avikeid2007" /></a> </p>
+<div  align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/Portfolio-330F63?style=for-the-badge&logo=appveyor&logoColor=white)](http://avnishkumar.co.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://lk.linkedin.com/in/avnishkumar1)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avikeid2007)
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7550820/avnish-kumar)
+</div>
 
-- 🔭 I’m currently working on [DeXcor- A desktop background changer client](https://github.com/avikeid2007/DeXcor)
-
-- 👨‍💻 All of my projects are available at [http://avnishkumar.co.in/](http://avnishkumar.co.in/)
-
-- 📝 I regularly write articles on [http://avnishkumar.co.in/blog](http://avnishkumar.co.in/blog)
-
-- 💬 Ask me about **UWP,UNO Platform**
-
-- 📫 How to reach me **avnish@ymail.com**
-
-- 📄 Know about my experiences [http://avnishkumar.co.in/resume/Avnish_dev.pdf](http://avnishkumar.co.in/resume/Avnish_dev.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/avikeid2007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="avikeid2007" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avnishkumar1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="avnishkumar1" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_aviii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr_aviii" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
