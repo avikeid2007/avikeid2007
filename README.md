@@ -1,27 +1,71 @@
-<h1 align="center">Hi 👋, I'm Avnish Kumar</h1>
-<h3 align="center">A passionate UWP Developer from India</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Avnish%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=UWP%20Developer%20%7C%20.NET%20Enthusiast%20%7C%20Cloud%20Architect&descAlignY=51&descAlign=50" />
+</p>
 
-<div  align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/Portfolio-330F63?style=for-the-badge&logo=appveyor&logoColor=white)](http://avnishkumar.co.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://lk.linkedin.com/in/avnishkumar1)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avikeid2007)
-[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7550820/avnish-kumar)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FF&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Avnish+Kumar;A+Passionate+UWP+Developer+from+India;Building+Amazing+Applications+with+.NET" alt="Typing SVG" />
 </div>
 
+<p align="center">
+  <a href="http://avnishkumar.co.in"><img src="https://img.shields.io/badge/Portfolio-330F63?style=for-the-badge&logo=appveyor&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://lk.linkedin.com/in/avnishkumar1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/avikeid2007"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://stackoverflow.com/users/7550820/avnish-kumar"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" /></a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=avikeid2007&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
+
+---
+
+
+## 🛠️ Tech Stack
+
+### Languages
 <p align="left">
-  
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://docs.microsoft.com/en-us/windows/uwp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Microsoft_Store.svg/200px-Microsoft_Store.svg.png" alt="UWP" width="40" height="40"/> </a><a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a><a href="https://platform.uno/" target="_blank"> <img src="https://s3.amazonaws.com/uno-website-assets/wp-content/uploads/2018/08/22113759/UnoLogoSmall.png" alt="UnoPlatform" width="40" height="40"/> </a><a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/240px-.NET_Core_Logo.svg.png" alt="DotNetCore" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/avnish"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="avnish" /></a></p>
+### Frameworks & Platforms
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/uwp/uwp.png" alt="UWP" width="45" height="45"/>
+  <img src="https://avatars.githubusercontent.com/u/11608770?s=200&v=4" alt="Uno Platform" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="45" height="45"/>
+</p>
 
-<br>
-<h2 align="left">⚡ My Blog posts</h2>
+### Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45"/>
+</p>
 
+### Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+</p>
+
+---
+
+## 💰 Support My Work
+<p align="center">
+  <a href="https://www.buymeacoffee.com/avnish">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 <!--START_SECTION:posts-->
 * [Windows Template Studio for UWP](http://avnishkumar.co.in/blog/view/windows-template-studio-for-uwp)
 * [Static Constructor in C# ](http://avnishkumar.co.in/blog/view/static-constructor-in-csharpcnet)
@@ -33,10 +77,43 @@
 * [How To Create WCF Service And Host In Windows Service](http://avnishkumar.co.in/blog/view/how-to-create-wcf-service-and-host-in-windows-service)
 <!--END_SECTION:posts-->
 
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avikeid2007&show_icons=true&locale=en&layout=compact" alt="avikeid2007" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avikeid2007&show_icons=true&locale=en" alt="avikeid2007" /></p>
-
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=avikeid2007&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avikeid2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avikeid2007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=avikeid2007&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=avikeid2007&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+<div align="center">
+  
+### 🐍 Contribution Snake
+  
+![Snake animation](https://raw.githubusercontent.com/avikeid2007/avikeid2007/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<p align="center">
+  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
