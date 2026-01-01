@@ -31,7 +31,7 @@
 ### Frameworks & Platforms
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/uwp/uwp.png" alt="UWP" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="UWP" width="45" height="45"/>
   <img src="https://avatars.githubusercontent.com/u/11608770?s=200&v=4" alt="Uno Platform" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="45" height="45"/>
 </p>
@@ -80,21 +80,23 @@
 ---
 
 ## 🏆 GitHub Trophies
+<!-- Service currently down
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=avikeid2007&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </p>
+-->
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=avikeid2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avikeid2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avikeid2007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=avikeid2007&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=avikeid2007&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
   <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=avikeid2007&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
